@@ -8,7 +8,7 @@
 	
 - 🔭 I’m currently a student at Washington and Lee University
 
-- 🖥️ Teaching Assistant (TA) at Washington and Lee University's Computer Science Department
+- 🖥️ Teaching Assistant at the Computer Science Department
 
 - 👨‍💻 I'm proficient with Python and Java
 
