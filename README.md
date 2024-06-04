@@ -16,7 +16,9 @@
 
 - 🌱 I’m currently learning Web Development
 
-- 🌎 I'm a big traveler, visited 20+ countries 
+- 🌎 I'm a big traveler, visited 20+ countries
+
+- 🧑‍🎨 Check out my personal website: **http://www.ignasvolcokas.com/index.html**
 
 - 📫 How to reach me **ignasvolcokas@gmail.com**
 </p>
