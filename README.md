@@ -18,7 +18,7 @@
 
 - 🌎 I'm a big traveler, visited 20+ countries
 
-- 🧑‍🎨 Check out my personal website: **http://www.ignasvolcokas.com/index.html**
+- 🧑‍🎨 Check out my personal website: **http://www.ignasvolcokas.com**
 
 - 📫 How to reach me **ignasvolcokas@gmail.com**
 </p>
