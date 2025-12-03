@@ -6,17 +6,15 @@
 </a>
 <p>
 	
-- 🔭 I’m currently a student at Washington and Lee University
+- 🔭 I’m currently a student at the University of Amsterdam
 
-- 🖥️ Teaching Assistant at the Computer Science Department
+- 🖥️ Student Engineer at ChannelEngine
 
 - 👨‍💻 I'm proficient with Python and Java
 
-- 🌱 I’m currently Working on Personal Projects
+- 🌱 I’m currently mastering C#
 
-- 🌱 I’m currently learning Web Development
-
-- 🌎 I'm a big traveler, visited 20+ countries
+- 🌎 I'm a big traveler, having visited 30+ countries
 
 - 🧑‍🎨 Check out my personal website: **[www.ignasvolcokas.com](https://www.ignasvolcokas.com/)**
 
